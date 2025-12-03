@@ -143,8 +143,15 @@ end
 function This_MOD.update_equipment(space)
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-    space.equipament.shape.height = 1
-    space.equipament.shape.width  = 1
+    local Shape = space.equipament.shape
+
+    Shape.width = 1
+    Shape.height = 1
+
+    if Shape.points then
+        Shape.type = "full"
+        Shape.points = nil
+    end
 
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 end
