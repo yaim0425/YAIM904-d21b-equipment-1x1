@@ -34,12 +34,39 @@ Armor mechanics remain the same; only equipment dimensions are modified.
 
 ## 🔗 Repository
 
-* GitHub: [https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1)
+**MOD**
+[YAIM0425 d21b Equipment 1x1](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1)
+
+**Required**
+
+[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+
+---
+
+## ❤️ Support
+
+Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ---
 
 ## 🖼️ Screenshots
 
-![Equipment 1x1 Screenshot 1](screenshot/\(1\).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1/raw/code/screenshot/(1).png)
 
----
+![Screenshot 2](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1/raw/code/screenshot/(2).png)
+
+![Screenshot 3](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1/raw/code/screenshot/(3).png)
+
+![Screenshot 4](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1/raw/code/screenshot/(4).png)
+
+![Screenshot 5](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1/raw/code/screenshot/(5).png)
+
+![Screenshot 6](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1/raw/code/screenshot/(6).png)
+
+![Screenshot 7](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1/raw/code/screenshot/(7).png)
+
+![Screenshot 8](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1/raw/code/screenshot/(8).png)
+
+![Screenshot 9](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1/raw/code/screenshot/(9).png)
+
+![Screenshot 10](https://github.com/yaim0425/YAIM0425-d21b-equipment-1x1/raw/code/screenshot/(10).png)
