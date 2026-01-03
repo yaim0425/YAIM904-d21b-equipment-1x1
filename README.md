@@ -1,12 +1,14 @@
 # YAIM904 d21b – Equipment 1x1 🧩📐
 
+---
+
 ## 📦 Description
 
 **YAIM904 d21b – Equipment 1x1** changes the **size of all equipment modules to 1x1**.
 
 This MOD allows players to freely combine and optimize equipment layouts by removing size restrictions inside armor grids, making it easier to experiment with builds and maximize available space.
 
-It is especially useful for creative playstyles, testing setups, and highly customized armor configurations.
+It is especially useful for creative playstyles, testing setups and highly customized armor configurations.
 
 ---
 
@@ -45,7 +47,7 @@ Armor mechanics remain the same; only equipment dimensions are modified.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
